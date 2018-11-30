@@ -1,0 +1,7 @@
+js/*/pakcage-lock.json
+/vendor
+composer.phar
+.DS_Store
+Thumbs.db
+node_modules
+js/dist/*
