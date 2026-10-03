@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of reflar/koseki.** Not for installation: use [Packagist](https://packagist.org/packages/reflar/koseki) or the [upstream repository](https://github.com/ReFlar/koseki).
 
-**0** versions archived · Latest: [`0.3.4`](https://github.com/flarchive/reflar-koseki/tree/archive/v0.3.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**15** versions archived · Latest: [`0.3.4`](https://github.com/flarchive/reflar-koseki/tree/archive/v0.3.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2018-05-11 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.1) |
+| `0.1.2` | 2018-05-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.2) |
+| `0.1.3` | 2018-05-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.3) |
+| `0.1.4` | 2018-05-15 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.4) |
+| `0.1.5` | 2018-06-01 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.5) |
+| `0.1.6` | 2018-08-18 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.6) |
+| `0.1.7` | 2018-08-19 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.7) |
+| `0.1.8` | 2018-08-19 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.8) |
+| `0.1.9` | 2018-09-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.1.9) |
+| `0.2.0` | 2018-09-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-koseki/tree/archive/v0.2.0) |
+
+[View all 15 versions](https://github.com/flarchive/reflar-koseki/tags)
 
 Catalog entry: [packages/reflar-koseki.json](https://github.com/flarchive/archive-index/blob/main/packages/reflar-koseki.json)
 
